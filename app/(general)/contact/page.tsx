@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
- title: 'Contact Page',
- description: 'Página donde puedes contactarme.',
+  title: 'Contact Page',
+  description: 'Página donde puedes contactarme.',
 };
 
 export default function ContactPage() {
